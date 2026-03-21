@@ -1,2 +1,3 @@
-# core-smart-home-e8y4
+# Core Smart Home E8Y4
+
 A repository to test GitHub automation for issue management.
